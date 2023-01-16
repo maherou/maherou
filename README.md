@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://raw.githubusercontent.com/maherou/maherou/master/HerouxBanner.png" alt="Banner that introduces Mike Heroux and mentions his interests">
 
 
